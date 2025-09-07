@@ -1,0 +1,15 @@
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\bin\Debug\net8.0\MVC 3 BLL.deps.json
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\bin\Debug\net8.0\MVC 3 BLL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\bin\Debug\net8.0\MVC 3 BLL.pdb
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\bin\Debug\net8.0\MVC 3 DAL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\bin\Debug\net8.0\MVC 3 DAL.pdb
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.csproj.AssemblyReference.cache
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.AssemblyInfoInputs.cache
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.AssemblyInfo.cs
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.csproj.CoreCompileInputs.cache
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.csproj.Up2Date
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\refint\MVC 3 BLL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\MVC 3 BLL.pdb
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 BLL\obj\Debug\net8.0\ref\MVC 3 BLL.dll

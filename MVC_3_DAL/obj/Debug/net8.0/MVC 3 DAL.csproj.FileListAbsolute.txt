@@ -1,0 +1,12 @@
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\bin\Debug\net8.0\MVC 3 DAL.deps.json
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\bin\Debug\net8.0\MVC 3 DAL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\bin\Debug\net8.0\MVC 3 DAL.pdb
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.csproj.AssemblyReference.cache
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.AssemblyInfoInputs.cache
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.AssemblyInfo.cs
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.csproj.CoreCompileInputs.cache
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\refint\MVC 3 DAL.dll
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\MVC 3 DAL.pdb
+C:\Users\center arwa\source\repos\MVC 3\MVC 3 DAL\obj\Debug\net8.0\ref\MVC 3 DAL.dll
