@@ -1,0 +1,29 @@
+﻿@model Employee
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Employee Details</h1>
+<br />
+<br />
+
+<div>
+    @if (!string.IsNullOrEmpty(Model.ImageName))
+    {
+        <img src="~/Files/Image/@Model.ImageName" width="150" class="rounded-circle" />
+    }
+    else
+    {
+        <span>No Image</span>
+    }
+</div>
+
+<br />
+
+<div>
+    <partial name="PartialView/DeleteDetailsEmployeePartial" model="Model" />
+
+    <a asp-controller="Employees" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+    <a asp-controller="Employees" asp-action="Index" class="btn btn-light">Back To List</a>
+</div>
